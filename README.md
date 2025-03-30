@@ -55,8 +55,6 @@ I'm a results-driven Data Engineer with over 3 years of experience specializing 
 
 ## 🏆 My HackerRank Badges
 
-## 🏆 My HackerRank Badges
-
 <div align="center">
   <table>
     <tr>

@@ -21,7 +21,7 @@ I'm a results-driven Data Engineer with over 3 years of experience specializing 
 - 🏆 Holder of **Microsoft Azure Data Engineer Associate (DP-900)** certification
 - 📊 Passionate about creating efficient data pipelines and deriving meaningful insights
 
-## 💻 Technical Skills
+## 💻 Top Technical Skills
 
 <div align="center">
   

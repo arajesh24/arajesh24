@@ -52,7 +52,29 @@ I'm a results-driven Data Engineer with over 3 years of experience specializing 
   <img src="https://github-readme-stats.vercel.app/api?username=arajesh24&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arajesh24&theme=radical" alt="GitHub Streak" />
 </div>
+## 🏆 My HackerRank Badges
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding:10px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/><br />
+        <strong>Python</strong><br />
+        ⭐⭐⭐
+      </td>
+      <td align="center" style="padding:10px; background-color:#ffcdb2; border-radius:15px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60"/><br />
+        <strong>SQL</strong><br />
+        ⭐
+      </td>
+      <td align="center" style="padding:10px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60"/><br />
+        <strong>C language</strong><br />
+        ⭐⭐⭐⭐
+      </td>
+    </tr>
+  </table>
+</div>
 ## 🔥 Projects
 
 ### 🌦️ Predictive Modelling for Weather & Diabetes

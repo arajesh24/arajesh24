@@ -40,14 +40,16 @@ I'm a results-driven Data Engineer with over 3 years of experience specializing 
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 | Data Engineering | Cloud & DevOps | Analytics & BI | Development |
 |------------------|----------------|----------------|-------------|
-| Apache Spark | AWS | Power BI | Python |
-| PySpark | Databricks | Tableau | SQL |
-| ETL/ELT | Azure | QlikView | HTML/CSS |
-| Snowflake | Google Cloud | Machine Learning | Bootstrap |
-| PostgreSQL | Jenkins | Data Visualization | Scala |
-| MySQL | Airflow | Statistical Analysis | MS SQL Server |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="20"/> Apache Spark | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="20"/> AWS | <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="20"/> Power BI | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="20"/> PySpark | <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="20"/> Databricks | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="20"/> Tableau | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> SQL |
+| <img src="https://www.svgrepo.com/show/306596/dataflow.svg" width="20"/> ETL/ELT | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="20"/> Azure | <img src="https://www.vectorlogo.zone/logos/qlikview/qlikview-icon.svg" width="20"/> QlikView | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> HTML/CSS |
+| <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="20"/> Snowflake | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="20"/> Google Cloud | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="20"/> Machine Learning | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="20"/> Bootstrap |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20"/> PostgreSQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="20"/> Jenkins | <img src="https://www.svgrepo.com/show/306453/tableau.svg" width="20"/> Data Visualization | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="20"/> Scala |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> MySQL | <img src="https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin_100.png" width="20"/> Airflow | <img src="https://www.svgrepo.com/show/306453/tableau.svg" width="20"/> Statistical Analysis | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="20"/> MS SQL Server |
 
 ## 📈 GitHub Stats
 

@@ -40,7 +40,6 @@ I'm a results-driven Data Engineer with over 3 years of experience specializing 
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
 
 | Data Engineering | Cloud & DevOps | Analytics & BI | Development |
 |------------------|----------------|----------------|-------------|

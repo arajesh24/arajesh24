@@ -71,26 +71,6 @@ I'm a results-driven Data Engineer with over 3 years of experience specializing 
   </table>
 </div>
 
-## 🔥 Projects
-
-### 🌦️ Predictive Modelling for Weather & Diabetes
-- Developed Decision Trees and Multi-Layer Perceptron models using Python
-- Achieved 90% AUC score for rainfall forecasting and 82% for diabetes detection
-- Technologies: Python, Jupyter Notebook, Scikit-learn, Pandas
-
-### 🛒 MumsNet E-Commerce Business Intelligence
-- Created a comprehensive BI solution for e-commerce data analysis
-- Technologies: Microsoft SQL Server, SSAS, Visual Studio SSDT
-
-### 📊 Stock Market Profitability Analysis
-- Cloud-based system for stock market risk analysis using Monte Carlo simulations
-- Deployed on Google App Engine for accessibility
-- Technologies: AWS, GCP, Python, Statistical Modeling
-
-### 🏃‍♀️ Surrey Sports Park Website Enhancement
-- Front-end project improving UX/UI with responsive design principles
-- Technologies: HTML5, CSS, Bootstrap
-
 ## 🏆 Accomplishments
 
 - Microsoft Azure Data Engineer Associate (DP-900) certification

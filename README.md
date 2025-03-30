@@ -53,7 +53,7 @@ I'm a results-driven Data Engineer with over 3 years of experience specializing 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arajesh24&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🏆 My HackerRank Badges
+## 🏆 HackerRank Badges
 
 <div align="center">
   <table>

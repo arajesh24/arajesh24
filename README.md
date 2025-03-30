@@ -52,29 +52,29 @@ I'm a results-driven Data Engineer with over 3 years of experience specializing 
   <img src="https://github-readme-stats.vercel.app/api?username=arajesh24&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arajesh24&theme=radical" alt="GitHub Streak" />
 </div>
+
 ## 🏆 My HackerRank Badges
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding:10px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/><br />
-        <strong>Python</strong><br />
-        ⭐⭐⭐
-      </td>
-      <td align="center" style="padding:10px; background-color:#ffcdb2; border-radius:15px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60"/><br />
-        <strong>SQL</strong><br />
-        ⭐
-      </td>
-      <td align="center" style="padding:10px">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60"/><br />
-        <strong>C language</strong><br />
-        ⭐⭐⭐⭐
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display:flex; gap:20px; justify-content:center;">
+  <div style="width:120px; height:140px; background-color:#e0e8e8; clip-path:polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+    <p style="margin:5px 0 0 0;"><strong>Python</strong></p>
+    <p style="margin:0;">⭐⭐⭐</p>
+  </div>
+  
+  <div style="width:120px; height:140px; background-color:#ffcdb2; clip-path:polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+    <p style="margin:5px 0 0 0;"><strong>SQL</strong></p>
+    <p style="margin:0;">⭐</p>
+  </div>
+  
+  <div style="width:120px; height:140px; background-color:#e0e8e8; clip-path:polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+    <p style="margin:5px 0 0 0;"><strong>C language</strong></p>
+    <p style="margin:0;">⭐⭐⭐⭐</p>
+  </div>
 </div>
+
 ## 🔥 Projects
 
 ### 🌦️ Predictive Modelling for Weather & Diabetes

@@ -71,35 +71,6 @@ I'm a results-driven Data Engineer with over 3 years of experience specializing 
   </table>
 </div>
 
-## 🏆 My HackerRank Profile
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/><br />
-        <strong>Python</strong><br />
-        ⭐⭐⭐
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60"/><br />
-        <strong>SQL</strong><br />
-        ⭐
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60"/><br />
-        <strong>C language</strong><br />
-        ⭐⭐⭐⭐
-      </td>
-    </tr>
-  </table>
-</div>
-
-### HackerRank Progress
-- 🏆 **245 more points** to get your gold badge!
-- 🔰 **Rank:** 137773
-- 📊 **Points:** 255/500
-
 ## 🔥 Projects
 
 ### 🌦️ Predictive Modelling for Weather & Diabetes

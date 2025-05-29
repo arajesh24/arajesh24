@@ -14,7 +14,7 @@ I'm a results-driven Data Engineer with over 3 years of experience specializing 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my **MSc in Data Science** at the University of Surrey
+- 🔭 Graduated in **MSc in Data Science** from University of Surrey.
 - 🎓 My dissertation focuses on **Modelling the Spread of the Omicron Variant of SARS-CoV-2**
 - 💼 Previously worked as a **Data Engineer** at Cognizant Technology Solutions
 - 🌟 Increased data processing efficiency by **98.75%** by optimizing PySpark and Apache Spark

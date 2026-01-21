@@ -73,7 +73,7 @@ I'm a results-driven Data Engineer with over 3 years of experience specializing 
 
 ## 🏆 Accomplishments
 
-- Microsoft Azure Data Engineer Associate (DP-900) certification
+- Microsoft Azure Data Engineer Associate (DP-203) certification
 - 1st Prize in Paper Presentation at National Level Technical Symposium
 - Dartmouth_IMTx DART.IMT.C.07 certification in C programming
 - Google Cloud Badges for Cloud Essentials, Infrastructure, and Operations Suite

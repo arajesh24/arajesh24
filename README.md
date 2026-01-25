@@ -5,7 +5,7 @@
 I'm a results-driven Data Engineer with over 3 years of experience specializing in Big Data technologies, Apache Spark ETL/ELT pipelines, and cloud platforms. Currently based in Manchester, UK, I'm passionate about transforming complex data challenges into efficient, scalable solutions.
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anisha-rajesh/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anisharajesh/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arajesh24)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anisharajesh42@gmail.com)
 </div>

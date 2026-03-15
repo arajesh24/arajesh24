@@ -88,7 +88,7 @@ I'm a results-driven Data Engineer with over 3 years of experience specializing 
 I'm always open to collaborating on projects and innovative ideas! Feel free to reach out to me via:
 -  Email: anisharajesh42@gmail.com
 -  Phone: 07385807375
--  LinkedIn: [linkedin.com/in/anisha-rajesh](https://www.linkedin.com/in/anisha-rajesh/)
+-  LinkedIn: [linkedin.com/in/anisha-rajesh](https://www.linkedin.com/in/anisharajesh)
 
 ---
 

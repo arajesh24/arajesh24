@@ -2,7 +2,7 @@
 
 ## Data Engineer | Big Data Specialist | AWS & Databricks Expert
 
-I'm a results-driven Data Engineer with over 3 years of experience specializing in Big Data technologies, Apache Spark ETL/ELT pipelines, and cloud platforms. Currently based in Manchester, UK, I'm passionate about transforming complex data challenges into efficient, scalable solutions.
+I'm a results-driven Data Engineer with over 3 years of experience specializing in Big Data technologies, Apache Spark ETL/ELT pipelines, and cloud platforms. Currently based in London, UK, I'm passionate about transforming complex data challenges into efficient, scalable solutions.
 
 <div align="center">
   
@@ -13,7 +13,7 @@ I'm a results-driven Data Engineer with over 3 years of experience specializing 
 </div>
 
 ##  About Me
-
+- I am currently an **Associate Data Engineer** at Chelsea and Westminster Hospital NHS Foundation Trust.
 -  Graduated in **MSc in Data Science** from University of Surrey.
 -  My dissertation focuses on **Modelling the Spread of the Omicron Variant of SARS-CoV-2**
 -  Previously worked as a **Data Engineer** at Cognizant Technology Solutions
